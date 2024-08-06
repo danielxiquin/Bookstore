@@ -23,7 +23,7 @@ Proyecto realizado en Visual Studio Code
 ## Explicación
 
 ### Estructura del proyecto
-Class Book:
+Class Book: Representa un libro con propiedades como ISBN, nombre, autor, categoría, precio y cantidad.
 
 Class BtreeNode: Representa un nodo en el árbol B, que puede contener libros y otros nodos hijos.
 
