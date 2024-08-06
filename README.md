@@ -10,6 +10,7 @@ Busqueda: Se leer de otro archivo CSV las busquedas que se desean encontrar y se
 Proyecto realizado en Visual Studio Code
 
 1. Clonar el repositorio
+  https://github.com/danielxiquin/Bookstore.git
 
 
 ## Explicación
