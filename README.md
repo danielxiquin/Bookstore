@@ -1,4 +1,4 @@
-# Libreria
+# Bookstore
 Proyecto nativo que busca ser de uso de inventario para una libreria, desarrollado en TypeScript utilizando Btree como estructura de datos y usando Json para leer un archivo CSV del cual se obtineen los libros del inventario.
 
 ## Uso
@@ -23,8 +23,17 @@ Proyecto realizado en Visual Studio Code
 ## Explicación
 
 ### Estructura del proyecto
+Class Book:
 
-## Features
+Class BtreeNode: Representa un nodo en el árbol B, que puede contener libros y otros nodos hijos.
+
+Class Btree: Representa un árbol B que almacena y maneja libros.
+
+Functiopn leer CSV: Lee un archivo CSV y ejecuta operaciones (INSERT, PATCH, DELETE) en el árbol B en función de las instrucciones en el archivo.
+
+Function Salidatxt: Lee un archivo CSV y realiza búsquedas de libros por nombre, escribiendo los resultados en un archivo de texto.
+
+
 
 
 
