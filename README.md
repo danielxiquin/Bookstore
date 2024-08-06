@@ -12,9 +12,17 @@ Proyecto realizado en Visual Studio Code
 1. Clonar el repositorio
   https://github.com/danielxiquin/Bookstore.git
 
+2. abrir visual studio code y ir al apartado de "Source Control" y presionar en "Clone Repository"
+
+3. Insertamos la URL y se selecciona la carpeta donde se clonara el archivo
+
+4. Instalamos Ts con el siguiente comando en la terminal: npm install typescript
+
+5. Ejecucion del codigo con el siguiente comando: ts-node lab1.ts
 
 ## Explicación
 
+### Estructura del proyecto
 
 ## Features
 
